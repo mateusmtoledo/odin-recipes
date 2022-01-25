@@ -1,0 +1,30 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #76623a;
+}
+
+h1 {
+    text-align: center;
+    color:#76623a;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
+div {
+    background-color: #faf9ce;
+    border-style: double;
+}
+
+li,
+a,
+p {
+    color: #faf9ce;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
